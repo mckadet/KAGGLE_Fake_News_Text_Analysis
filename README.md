@@ -1,5 +1,5 @@
 # KAGGLE Competition: Text Analysis to Predict Fake News
-\
+
 ## Project Overview
 The purpose of this project is to summarize the work I did on the Kaggle Fake News competition (https://www.kaggle.com/c/fake-news/overview). The goal of this competition was to predict whether or not a news article was fake via text analysis. The dataset we were given contained the author, title, and content for thousands of news articles.
 
